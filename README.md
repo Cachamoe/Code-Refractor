@@ -6,7 +6,7 @@ This website was created in order to help businesses get found through search en
 ## Website Features
 1) Modern, up to date page for ease of use 
 2) Buttons for quicker page navigation
-3) Paragraphs that briefly explain the goals of the company
+3) Brief paragraphs that explain the goals of the company
 
 ## Programs: HTML and CSS
 
