@@ -10,4 +10,4 @@ This website was created in order to help businesses get found through search en
 
 ## Programs: HTML and CSS
 
-## Authors: Caleb Chaney
+## Author/s: Caleb Chaney
