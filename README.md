@@ -7,8 +7,10 @@ This website was created in order to help businesses get found through search en
 1) Modern, up to date page for ease of use 
 2) Buttons for quicker page navigation
 3) Brief paragraphs that explain the goals of the company
-4) Pictures that tie into the paragraphs
+4) Pictures that tie into the paragraph's text
 
-## Programs: HTML and CSS
+## Programs 
+HTML and CSS
 
-## Author/s: Caleb Chaney
+## Author/s
+Caleb Chaney
