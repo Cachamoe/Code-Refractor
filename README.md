@@ -2,7 +2,10 @@
 ![GitHub Logo](./assets/images/social-media-marketing.jpg)
 
 ## Overview
-This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. I refractored the code given the acceptance criteria: ```
+This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. I refractored the code given the acceptance criteria: 
+
+
+```
 GIVEN a webpage meets accessibility standards
 
 WHEN I view the source code
