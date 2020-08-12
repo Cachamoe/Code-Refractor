@@ -1,6 +1,5 @@
 # Horiseon Social Solution Services
-![GitHub Logo](./assets/images/social-media-marketing.jpg)
-
+![GitHub Logo](Screen Shot 2020-08-11 at 9.02.30 PM.png)
 ## Overview
 This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. I refractored the code given the acceptance criteria: 
 
