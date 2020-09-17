@@ -1,5 +1,5 @@
 # Horiseon Social Solution Services
-![](./assets/images/social-media-marketing.jpg)
+![](https://github.com/Cachamoe/Code-Refractor/blob/master/assets/images/Screen%20Shot%202020-09-17%20at%203.28.38%20PM.png)
 ## Overview
 This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. 
 
