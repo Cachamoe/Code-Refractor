@@ -1,8 +1,11 @@
 # Horiseon Social Solution Services
-![GitHub Logo](./assets/images/social-media-marketing.jpg)
+![](./assets/images/social-media-marketing.jpg)
 ## Overview
-This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. I refractored the code given the acceptance criteria: 
+This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. 
 
+Here is a link to the deployed webpage: [https://cachamoe.github.io/Code-Refractor/]
+
+I refractored the code given the acceptance criteria: 
 
 ```
 GIVEN a webpage meets accessibility standards
