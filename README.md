@@ -1,5 +1,5 @@
 # Horiseon Social Solution Services
-![](./assets/images/social-media-marketing.jpg)
+![](https://github.com/Cachamoe/Code-Refractor/blob/master/assets/images/Screen%20Shot%202020-09-17%20at%203.28.38%20PM.png)
 ## Overview
 This website was created in order to help businesses get found through search engine optimization, helping to manage their online reputaton, and expanding their influence by marketing through social media. 
 
@@ -23,10 +23,8 @@ THEN I find a concise, descriptive title
 ```
 
 ## Website Features
-1) Modern, up to date page for ease of use 
+1) Modern, up to date webpage 
 2) Buttons for quicker page navigation
-3) Brief paragraphs that explain the goals of the company
-4) Pictures that tie into the paragraph's text
 
 ## Programs 
 HTML and CSS
