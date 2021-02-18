@@ -26,7 +26,7 @@ THEN I find a concise, descriptive title
 1) Modern, up to date webpage 
 2) Buttons for quicker page navigation
 
-## Programs 
+## Technologies
 HTML and CSS
 
 ## License 
